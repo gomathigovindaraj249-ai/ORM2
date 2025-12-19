@@ -42,8 +42,8 @@ admin.site.register(Car,CarAdmin)
 
 
 ## OUTPUT
-Include your output
-
+![alt text](<Screenshot (18)-1.png>)
+![alt text](<Screenshot (21)-1.png>)
 
 
 ## RESULT
